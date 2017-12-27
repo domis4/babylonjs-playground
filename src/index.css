@@ -10,6 +10,7 @@ html, body, canvas {
   position: absolute;
   background: rgba(255, 255, 255, 0.8);
   color: darkgrey;
+  min-width: 250px;
 }
 #fps, #delta {
   position: relative;
